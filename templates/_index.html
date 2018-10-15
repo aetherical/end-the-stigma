@@ -69,6 +69,16 @@
 
             transition: 'slide', // none/fade/slide/convex/concave/zoom
 
+	      // Parallax background image
+	      parallaxBackgroundImage: 'resources/images/end-stigma2.png', // e.g. "https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg"
+
+	      // Parallax background size
+	      parallaxBackgroundSize: '2400px 1350px', // CSS syntax, e.g. "2100px 900px" - currently only pixels are supported (don't use % or auto)
+
+	      // Number of pixels to move the parallax background per slide
+	      // - Calculated automatically unless specified
+	      // - Set to 0 to disable movement along an axis
+
             // Optional reveal.js plugins
             dependencies: [
               { src: 'bower_components/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
@@ -77,7 +87,10 @@
               { src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( '[data-html]' ) || !!document.querySelector( 'pre code' ) || !!document.querySelector( '[data-markdown]' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
               { src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true },
               { src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true },
-              { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
+                { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } },
+                { src: 'resources/plugins/quiz/js/quiz.js', async: true, callback: function() { prepareQuizzes({}); } },
+                { src: 'resources/plugins/tagcloud/tagcloud.js', async: true } 
+                
             ]
           });
 

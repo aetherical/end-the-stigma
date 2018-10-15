@@ -1,1 +1,97 @@
-["index.md"]
+[
+    "index.md",
+    {
+        "filename": "introduction.md",
+        "attr": {}
+    },
+    {
+        "filename": "disclaimer.md",
+        "attr": {
+        }
+    },
+    {
+        "filename": "we-all-have-mental-health.md",
+        "attr": {}
+    },
+    {
+        "filename": "famous-people.html",
+        "attr": {
+        }
+    },
+    {
+        "filename": "mental-health-in-software-engineers.md",
+        "attr": {}
+    },
+    {
+        "filename": "mental-health-in-software-engineers-2.md",
+        "attr": {}
+    },
+    {
+        "filename": "mental-health-in-software-engineers-3.md",
+        "attr": {}
+    },
+    {
+        "filename": "detection-of-stress-anxiety-and-depression.md",
+        "attr": {}
+    },
+    {
+        "filename": "we-all-know-someone.md",
+        "attr": {}
+    },
+    {
+        "filename": "why-is-there-a-lingering-stigma.md",
+        "attr": {}
+    },
+    {
+        "filename": "constant-reminders.md",
+        "attr": {}
+    },
+    {
+        "filename": "nothing-weak-about-seeking-help.md",
+        "attr": {}
+    },
+    {
+        "filename": "what-is-an-ally.md",
+        "attr": {}
+    },
+    {
+        "filename": "how-you-can-help.md",
+        "attr": {}
+    },
+    {
+        "filename": "ways-you-can-be-a-better-ally-and-advocate.md",
+        "attr": {}
+    },
+    {
+        "filename": "everyone-is-different.md",
+        "attr": {}
+    },
+    {
+        "filename": "why.md",
+        "attr": {}
+    },
+    {
+        "filename": "why-now.md",
+        "attr": {}
+    },
+    {
+        "filename": "resources.md",
+        "attr": {}
+    },
+    {
+        "filename": "quiz.html",
+        "attr": {}
+    },
+    {
+        "filename": "quick-show-of-hands.html",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "quick-show-of-hands-redux.html",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    }
+]

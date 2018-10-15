@@ -17,26 +17,36 @@
 
 
 // Include theme-specific fonts
-@import url(../bower_components/reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
+// style 1
+@import url(https://fonts.googleapis.com/css?family=Quattrocento:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Fanwood:400italic,700italic,400,700);
+// style 2
+@import url(https://fonts.googleapis.com/css?family=Nixie+One:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400italic,700italic,400,700);
+// style 3
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400italic,700italic,400,700);
 
 
 // Override theme settings (see ../../bower_components/reveal.js/css/theme/template/settings.scss)
-$backgroundColor: #222;
+$backgroundColor: #000;
 
-$mainColor: #fff;
-$headingColor: #fff;
+// $mainColor: #aa0;
+// $headingColor: #aa0;
+$mainColor: #ffc74b;
+$headingColor: #ffe44b;
 
 $mainFontSize: 38px;
-$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
-$headingFont: 'Source Sans Pro', Helvetica, sans-serif;
+$mainFont: 'Josefin Sans', Helvetica, sans-serif;
+$headingFont: 'Amatic SC', Helvetica, sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
-$headingFontWeight: 600;
-$linkColor: #42affa;
+$headingFontWeight: 700;
+$linkColor: #ffa34b;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
-
+   
 $heading1Size: 2.5em;
 $heading2Size: 1.6em;
 $heading3Size: 1.3em;
@@ -44,7 +54,7 @@ $heading4Size: 1.0em;
 
 section.has-light-background {
 	&, h1, h2, h3, h4, h5, h6 {
-		color: #222;
+		color: #000;
 	}
 }
 
