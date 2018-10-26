@@ -1,6 +1,6 @@
-##  What is an Ally?
+##  Ways to End Stigma
 
-An active advocate for a marginalized person or group.
+
 
 note:
     Put your speaker notes here.
