@@ -3,9 +3,9 @@
 > Results: 36% of subjects scored above the cut-off score of 4 and
 > could be considered as probable psychiatric cases.
 >
-> ... the rate of psychiatric morbidity (36%) is higher than
+> ... **the rate of psychiatric morbidity (36%) is higher than
 > that reported for the general population in India, and suggests a
-> need for health promotion activities in the IT sector.
+> need for health promotion activities in the IT sector.**
 
 <small>[Detection of stress, anxiety and depression in IT/ITES
 professionals in the Silicon Valley of India: A preliminary

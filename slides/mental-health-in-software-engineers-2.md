@@ -1,7 +1,7 @@
 ##  Mental Health in Software Engineers
 
 
-> Of the subjects 62% had mental complaints and 31% mental ill-health.
+> Of the subjects **62% had mental complaints and 31% mental ill-health.**
 > Depressive symptom was the most frequent mental complaint with 32%
 > of the subjects diagnosed as DSM-III. The common diagnoses were
 > adjustment disorders (19%), major affective disorders (6%),

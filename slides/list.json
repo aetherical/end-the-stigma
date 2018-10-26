@@ -6,17 +6,53 @@
     },
     {
         "filename": "disclaimer.md",
+        "attr": {}
+    },
+    {
+        "filename": "don-t-expect-to-feel-comfortable.md",
         "attr": {
+            "data-background": "#ff0000"
         }
+    },
+    {
+        "filename": "why.md",
+        "attr": {}
+    },
+    {
+        "filename": "why-now.md",
+        "attr": {}
+    },
+    {
+        "filename": "stigma.md",
+        "attr": {}
+    },
+    {
+        "filename": "social-stigma.md",
+        "attr": {}
+    },
+    {
+        "filename": "quick-show-of-hands.html",
+        "attr": {}
+    },
+    {
+        "filename": "quiz.html",
+        "attr": {}
+    },
+    {
+        "filename": "famous-people.html",
+        "attr": {}
+    },
+    {
+        "filename": "mental-illness.md",
+        "attr": {}
     },
     {
         "filename": "we-all-have-mental-health.md",
         "attr": {}
     },
     {
-        "filename": "famous-people.html",
-        "attr": {
-        }
+        "filename": "constant-reminders.md",
+        "attr": {}
     },
     {
         "filename": "mental-health-in-software-engineers.md",
@@ -39,11 +75,67 @@
         "attr": {}
     },
     {
-        "filename": "why-is-there-a-lingering-stigma.md",
+        "filename": "how-you-can-help.md",
         "attr": {}
     },
     {
-        "filename": "constant-reminders.md",
+        "filename": "words-to-avoid.html",
+        "attr": {}
+    },
+    {
+        "filename": "things-not-to-say.html",
+        "attr": {}
+    },
+    {
+        "filename": "things-to-to-say.html",
+        "attr": {}
+    },
+    {
+        "filename": "everyone-is-different.md",
+        "attr": {}
+    },
+    {
+        "filename": "ways-to-end-stigma.md",
+        "attr": {}
+    },
+    {
+        "filename": "ways-to-end-stigma-01.md",
+        "attr": {}
+    },
+    {
+        "filename": "ways-to-end-stigma-02.md",
+        "attr": {}
+    },
+    {
+        "filename": "ways-to-end-stigma-03.md",
+        "attr": {}
+    },
+    {
+        "filename": "ways-to-end-stigma-04.md",
+        "attr": {}
+    },
+    {
+        "filename": "ways-to-end-stigma-05.md",
+        "attr": {}
+    },
+    {
+        "filename": "ways-to-end-stigma-06.md",
+        "attr": {}
+    },
+    {
+        "filename": "ways-to-end-stigma-07.md",
+        "attr": {}
+    },
+    {
+        "filename": "ways-to-end-stigma-08.md",
+        "attr": {}
+    },
+    {
+        "filename": "ways-to-end-stigma-09.md",
+        "attr": {}
+    },
+    {
+        "filename": "why-is-there-a-lingering-stigma.md",
         "attr": {}
     },
     {
@@ -55,7 +147,19 @@
         "attr": {}
     },
     {
-        "filename": "how-you-can-help.md",
+        "filename": "saying-vs-being.md",
+        "attr": {}
+    },
+    {
+        "filename": "don-t.md",
+        "attr": {}
+    },
+    {
+        "filename": "do.md",
+        "attr": {}
+    },
+    {
+        "filename": "quick-show-of-hands-redux.html",
         "attr": {}
     },
     {
@@ -63,35 +167,40 @@
         "attr": {}
     },
     {
-        "filename": "everyone-is-different.md",
-        "attr": {}
-    },
-    {
-        "filename": "why.md",
-        "attr": {}
-    },
-    {
-        "filename": "why-now.md",
-        "attr": {}
-    },
-    {
         "filename": "resources.md",
         "attr": {}
     },
     {
-        "filename": "quiz.html",
+        "filename": "resources-orgs.md",
         "attr": {}
     },
     {
-        "filename": "quick-show-of-hands.html",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "filename": "resources-studies.md",
+        "attr": {}
     },
     {
-        "filename": "quick-show-of-hands-redux.html",
+        "filename": "resources-ally.md",
+        "attr": {}
+    },
+    {
+        "filename": "resources-ally-2.md",
+        "attr": {}
+    },
+    {
+        "filename": "resources-stigma.md",
+        "attr": {}
+    },
+    {
+        "filename": "resources-general.md",
+        "attr": {}
+    },
+    {
+        "filename": "resources-general-2.md",
+        "attr": {}
+    },
+    {
+        "filename": "thank-you.md",
         "attr": {
-            "data-background": "#ff0000"
         }
     }
 ]

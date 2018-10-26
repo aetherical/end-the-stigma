@@ -1,6 +1,6 @@
-##  What is an Ally?
+##  Things TO to Say
 
-An active advocate for a marginalized person or group.
+This is a new Markdown slide
 
 note:
     Put your speaker notes here.
