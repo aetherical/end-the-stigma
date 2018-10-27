@@ -4,7 +4,7 @@
 
 * [Depression and the Software Developer | Software Development: A Love-Hate Relationship](http://sd.jtimothyking.com/2009/04/17/depression-and-the-software-developer/)
 * [How does having PTSD, depression, or anxiety feel for software engineers and computer scientists? What were your worst times and how did you get on track? - Quora](https://www.quora.com/How-does-having-PTSD-depression-or-anxiety-feel-for-software-engineers-and-computer-scientists-What-were-your-worst-times-and-how-did-you-get-on-track)
-
+* [Take Mental Illness Out of the Closet](http://www.aish.com/ci/s/Take-Metal-Illness-Out-of-the-Closet.html)
 
 note:
     Put your speaker notes here.
